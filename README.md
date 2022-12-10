@@ -1,3 +1,4 @@
+![logo](https://github.com/mr-mic200/mr-mic200/blob/main/DESKTOP-WALLPAPER-ANIME-DEMON-SLAYER_HD.webp) 
 <h1 align="center">Hi 👋, I'm Rohit Bhatade</h1>
 <h3 align="center">A passionate frontend developer || UI/UX Designer from India</h3>
 
